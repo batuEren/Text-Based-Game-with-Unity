@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a59c5a737b28be449faa520d9a10d2e, type: 3}
+  m_Name: KelindurAttacking
+  m_EditorClassIdentifier: 
+  storyText: "You say Qulon is attacking to Kasilo. And Lord says \"It is enough from
+    the war between Qulon and Kasilo I am going to stop that know.\". Lord takes you
+    with him and go to the plains with his grand cavalry army. And you arrive to the
+    plains and see the Qulon's army. And the Lord sends an delegate with a masage
+    that writes \"Go back where you come and never come back. This War is over here\"
+    to Qulon's army.\r\n\r\n1- Continue \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: d71f7c8fd87fcb242b3c73814f2515c7, type: 2}

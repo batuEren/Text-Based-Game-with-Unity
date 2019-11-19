@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a59c5a737b28be449faa520d9a10d2e, type: 3}
+  m_Name: DirectAttack
+  m_EditorClassIdentifier: 
+  storyText: "You directly attack to the army. You and your men fight bravely but
+    you die in the battle. Your mes lose. And the army goes to the Kasilo and Kasilo
+    gets unprepared. Kasilo wins because you have weaken the Qulon's army.\r\n\r\nYou
+    died but the war ended\r\n\r\n1- Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 918d7bd7bcbe8ab4d96bcf54e4620d1d, type: 2}

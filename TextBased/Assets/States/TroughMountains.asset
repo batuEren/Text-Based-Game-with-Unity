@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a59c5a737b28be449faa520d9a10d2e, type: 3}
+  m_Name: TroughMountains
+  m_EditorClassIdentifier: 
+  storyText: "You are trying to go Kasilo through mountains then you see a big dragon
+    called \"Smoke\" by the people of  Kasilo. Much before you see him Smoke sensed
+    you. He asks you \"What is your business here.\" You say him \"I am a scout .I
+    am here to spy Qulon's army they are attacking us.\". He says \"Ugh enough from
+    you and your war.\". And he kills you and kills the Qulon's army and kills every
+    human in Qulon and Kasilo.\r\n\r\nYou died.\r\n\r\n1- Continue "
+  nextStates:
+  - {fileID: 11400000, guid: 4442124a92759fc46ae47d3bf9aa6f69, type: 2}

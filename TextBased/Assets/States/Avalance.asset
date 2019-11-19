@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a59c5a737b28be449faa520d9a10d2e, type: 3}
+  m_Name: Avalance
+  m_EditorClassIdentifier: 
+  storyText: "You try hard for that but nothing happens. And army suddenly detects
+    you and sends some troops. You panic.\r\n\r\nWhat would you like to do ?\r\n\r\n1-
+    Hide\r\n2- Run Away\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 7efa6a64f5c93ba4d9d82d61b8455bfc, type: 2}
+  - {fileID: 11400000, guid: 6d4318bf0ab0a154bad3c3fb3781306f, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a59c5a737b28be449faa520d9a10d2e, type: 3}
+  m_Name: Warring
+  m_EditorClassIdentifier: 
+  storyText: "Warring: This game was supposed to be bigger than this version but during
+    the game making process the game maker (Batu Eren) was too lazy to do so. So some
+    choices goes directly to the end. But don't worry this game still has 8 different
+    ends. If you play the game for each of these 8 ends it would take only 20 minutes.\r\n\nNote:
+    Push the key 1 or 2 to choice options. \n\r\nPls see all the ends.\r\n\r\n1- Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 1b5bfb60246635f409e4ca8adca24fdb, type: 2}
